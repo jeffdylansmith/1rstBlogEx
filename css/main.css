@@ -1,0 +1,134 @@
+
+body{
+	background-color: pink;
+}
+
+h1 {
+	margin:10px 10px 0 20px;
+	font-size: 2.5em; /* 40px/16=2.5em */
+}
+
+h4 {
+	text-decoration: underline;
+	margin:5px 0 0 30px;
+}
+
+
+.A1 {
+	background-color: blue;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-color:green;
+	line-height: 20px;
+	padding:13px;
+	border-width:11px;
+	border-radius: 50px;
+	border-color: silver;
+	border-width:10px;
+	margin-bottom: 20px;
+}
+
+.A2 {
+	background-color: green;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size: 18px;
+	font-color:blue;
+	line-height: 15px;
+	padding:40px;
+	border-width:13px;
+	border-radius: 30px;
+	border-color: brown;
+	border-width:12px;
+	margin-bottom: 20px;
+}
+
+.A3 {
+	background-color: red;
+	font-family:"Lucida Console", Monaco, monospace;
+	font-size: 10px;
+	font-color:purple;
+	line-height: 12px;
+	padding:30px;
+	border-width:15px;
+	border-radius: 19px;
+	border-color: white;
+	border-width:10px;
+	margin-bottom: 20px;
+}
+
+.A4 {
+	background-color: white;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size: 21px;
+	font-color:black;
+	line-height: 22px;
+	padding:10px;
+	border-width:17px;
+	border-radius: 25px;
+	border-color: grey;
+	border-width:15px;
+	margin-bottom: 20px;
+}
+
+.A5 {
+	background-color: orange;
+	font-family:"Courier New", Courier, monospace;
+	font-size: 12px;
+	font-color:white;
+	line-height: 8px;
+	padding:37px;
+	border-width:19px;
+	border-radius: 40px;
+	border-color: blue;
+	border-width:5px;
+	margin-bottom: 20px;
+}
+
+nav {
+	padding: none;
+	border-bottom:8px;
+	border-color:white;
+	margin-bottom: 30px;
+}
+
+nav li {
+	float:left;
+	list-style-type: none;
+	margin: 0px 15px 0 20px;
+}
+
+nav li:hover {
+	color:white;
+}
+
+h3 {
+	text-decoration: underline;
+	margin-top:-5px;
+	font-style: italic;
+}
+
+article {
+	padding:10px 50px 20px 50px;
+	border-style: solid;
+	border-width:20px 3em;
+	border-color:pink;
+	border-radius:25px;
+	background-color: lightgrey;
+}
+
+article footer a {
+	text-decoration-color: black;
+	font-size: .75em;
+}
+
+article a:hover {
+	color:white;
+}
+
+footer p {
+	text-align:center;
+}
+
+a {
+	text-decoration: none;
+}

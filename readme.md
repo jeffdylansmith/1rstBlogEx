@@ -1,0 +1,1 @@
+This was my attempt at the blog exercise.  I spent more time on this than I should have.  Someone pointed out that some of the things I was trying to do were beyond the scope of this exercise.
